@@ -39,6 +39,6 @@ Werkzeug==0.16.1
 wincertstore==0.2
 xgboost==0.90
 zipp==2.0.1
-certifi==2020.4.5.1
+certifi==2022.12.7
 gunicorn==20.0.4
 wincertstore==0.2
